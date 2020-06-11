@@ -1,5 +1,5 @@
 ### Project management system
-This project aims to track and manage the team projects, daily tasks, milestones, and the team members’ work progress. You could export a member’s tasks progress report in excel or pdf. Also, the dashboard will showcase all the projects progress & ongoing tasks to keep whole work tracked. 
+This project aims to track and manage the team projects, daily tasks, milestones, and the team members’ work progress. You could export a member’s tasks progress report in excel or pdf. Also, the dashboard will showcase all the projects progress & ongoing tasks to keep the whole work tracked. 
 
 ### Prerequisites
 - xampp
