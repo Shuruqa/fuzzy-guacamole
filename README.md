@@ -15,16 +15,14 @@ This project aims to track and manage the team projects, daily tasks, milestones
 
 ### Running the tests
 
-Needs to be updated soon
 
 ### Deployment
 
-Needs to be updated soon
+
 
 ### Build with
 
-Needs to be updated soon
+
 
 ### Contribution 
 
-Needs to be updated soon
