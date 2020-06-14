@@ -3,13 +3,13 @@ This project aims to track and manage the team projects, daily tasks, milestones
 
 ### Prerequisites
 - Xampp
-- MyphpAdmin
+- MyphpAdmin/ MySQL 
 - Mpdf
 - PhPExcel- 1.8
 
 ### Installing
 - Configure the xampp for php environment 
-- Install Myphpadmin
+- Install Myphpadmin or any database management 
 - Install Mpdf library 
 - Install PhpExcel-version 1.8 library
 
