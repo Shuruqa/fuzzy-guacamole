@@ -15,7 +15,7 @@ This project aims to track and manage the team projects, daily tasks, milestones
 
 ### Running the tests
 
-I have been using the manual testing can be replaced by automated testing like PHPUnit in which we use specific softwares that will do the tiresome work for us, and we can spend more time with creating the logic of the testing code.
+I have used the manual testing; however, it can also be replaced by automated testing like [PHPUnit] (https://phpunit.de) that will do the tiresome work for you. 
 
 ### Deployment
 
