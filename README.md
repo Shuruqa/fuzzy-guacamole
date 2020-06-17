@@ -26,5 +26,5 @@ I have used the manual testing; however, it can also be replaced by automated te
 
 
 ### Contribution 
-- the front-end has been developed by @Rakesh Kumar
-- hat off to @Anand Yadav for the support 
+- the design has been developed by @Rakesh Kumar
+- hat off to Anand Yadav (@anandy075) for the support 
