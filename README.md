@@ -15,7 +15,7 @@ This project aims to track and manage the team projects, daily tasks, milestones
 
 ### Running the tests
 
-I have used the manual testing; however, it can also be replaced by automated testing like [PHPUnit](https://phpunit.de/) that will do the running test for you. 
+I have used the manual testing; however, it can also be replaced by automated testing like [PHPUnit](https://phpunit.de/) that will do the running test. 
 
 ### Deployment
 
@@ -26,7 +26,7 @@ I have used the manual testing; however, it can also be replaced by automated te
 
 
 ### Contribution 
-- the design has been developed by @Rakesh Kumar
+- Design has been developed by (Rakesh Kumar)
 
 ### Acknowledgment
-- hat off to Anand Yadav (@anandy075) for the support 
+- Hat off to Anand Yadav (@anandy075) for the support 
