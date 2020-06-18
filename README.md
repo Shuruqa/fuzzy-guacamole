@@ -26,7 +26,5 @@ I have used the manual testing; however, it can also be replaced by automated te
 
 
 ### Contribution 
-- The design has been developed by (Rakesh Kumar)
-
-### Acknowledgment
-- Hat off to Anand Yadav (@anandy075) for the support 
+- The design has been developed by Rakesh Kumar
+- Hat off to Anand Yadav (@anandy075) for the support.
