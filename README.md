@@ -2,8 +2,8 @@
 This project aims to track and manage the team projects, daily tasks, milestones, and the team members work progress. You could export a member tasks progress report in excel or pdf. Also, there's a notification of the tasks due date, as well a dashboard to showcase all the projects progress & ongoing tasks to keep the whole work tracked. 
 
 ### Prerequisites
-- Xampp you could download from [here](https://www.apachefriends.org/download.html)
-- MyphpAdmin from [here](https://www.phpmyadmin.net/downloads/) or MySQL 
+- Xampp you could install Apache from [here](https://www.apachefriends.org/download.html)
+- MyphpAdmin install from [here](https://www.phpmyadmin.net/downloads/) or MySQL 
 - Mpdf you could refer to this github repository [page](https://github.com/mpdf/mpdf)
 - PhPExcel- 1.8
 
@@ -27,4 +27,4 @@ I have used the manual testing; however, it can also be replaced by automated te
 
 ### Contribution 
 - The design has been developed by Rakesh Kumar
-- Hat off to Anand Yadav (@anandy075) for the support.
+- Hat off to Anand Yadav-- username account: anandy075,  for the support.
