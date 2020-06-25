@@ -27,11 +27,10 @@ I have used the manual testing; however, it can also be replaced by automated te
 - [Bootstrap](https://getbootstrap.com/) - Free open-source contains CSS- and JavaScript- based design templates.
 
 
-### Contribution  
+### Acknowledgement 
 - The design templates have been developed by Rakesh Kumar 
-
+- All thanks to Anand Yadav-- @anandy075
 
 ### License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-All thanks goes to Anand Yadav-- @anandy075
