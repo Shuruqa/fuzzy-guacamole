@@ -30,3 +30,6 @@ I have used the manual testing; however, it can also be replaced by automated te
 ### Contribution 
 - The design has been developed by Rakesh Kumar
 - Hat off to Anand Yadav-- @anandy075 for the support.
+
+### License
+[MIT](https://choosealicense.com/licenses/mit/)
