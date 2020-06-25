@@ -22,7 +22,7 @@ I have used the manual testing; however, it can also be replaced by automated te
 
 
 ### Build with
-- [jQuery - Ajax](https://www.w3schools.com/jquery/jquery_ref_ajax.asp) - jQuery simplifies HTML document traversing, event handling, animating, and Ajax interactions for rapid web development.
+- [jQuery - Ajax](https://api.jquery.com/jQuery.ajax/) - jQuery allow us to load data from the server without a browser page refresh & for rapid web development.
 - [Chart.js](https://www.chartjs.org/) - Free open-source JavaScript library for data visualization.
 - [Bootstrap](https://getbootstrap.com/) - Free open-source contains CSS- and JavaScript- based design templates.
 
