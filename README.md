@@ -29,7 +29,7 @@ I have used the manual testing; however, it can also be replaced by automated te
 
 ### Acknowledgement 
 - The design templates have been developed by Rakesh Kumar 
-- All thanks to Anand Yadav-- @anandy075
+- Thanks to Anand Yadav-- @anandy075
 
 ### License
 [MIT](https://choosealicense.com/licenses/mit/)
