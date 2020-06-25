@@ -29,4 +29,4 @@ I have used the manual testing; however, it can also be replaced by automated te
 
 ### Contribution 
 - The design has been developed by Rakesh Kumar
-- Hat off to Anand Yadav-- username account: anandy075,  for the support.
+- Hat off to Anand Yadav-- @anandy075 for the support.
