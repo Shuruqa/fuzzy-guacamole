@@ -27,7 +27,7 @@ I have used the manual testing; however, it can also be replaced by automated te
 - [Bootstrap](https://getbootstrap.com/) - Free open-source contains CSS- and JavaScript- based design templates.
 
 
-### Contribution 
+### Team 
 - The design has been developed by Rakesh Kumar
 - Hat off to Anand Yadav-- @anandy075 for the support.
 
