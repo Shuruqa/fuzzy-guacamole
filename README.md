@@ -34,4 +34,6 @@ I have used the manual testing; however, it can also be replaced by automated te
 ### License
 [MIT](https://choosealicense.com/licenses/mit/)
 
+[image](images/pms.gif)
+
 
