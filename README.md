@@ -1,4 +1,4 @@
-### Project management system
+### TrackPro App
 This project aims to track and manage the team projects, daily tasks, milestones, and the team members work progress. You could export a member tasks progress report in excel or pdf. Also, there's a notification of the tasks due date, as well a dashboard to showcase all the projects progress & ongoing tasks to keep the whole work tracked. 
 
 ### Prerequisites
